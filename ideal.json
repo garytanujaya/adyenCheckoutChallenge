@@ -1,0 +1,39 @@
+"pspReference": "WRCNNXNKG4BLNK82"
+
+Payment Payload
+{
+    "riskData":
+    {
+        "clientData": "eyJ2ZXJzaW9uIjoiMS4wLjAiLCJkZXZpY2VGaW5nZXJwcmludCI6ImRmLXRpbWVkT3V0In0="
+    },
+    "paymentMethod":
+    {
+        "type": "ideal",
+        "issuer": "1154"
+    },
+    "clientStateDataIndicator": True
+}
+
+Payment Response
+{
+    "resultCode": "RedirectShopper",
+    "action":
+    {
+        "paymentMethodType": "ideal",
+        "url": "https://checkoutshopper-test.adyen.com/checkoutshopper/checkoutPaymentRedirect?redirectData=X3XtfGC7%21H4sIAAAAAAAAAJVTbW%2FaMBD%2BL5bol7XBcQgvkVCVhpDSlxSism4VEjKJS0xD4tkOLar477MD0RitJk2KFOvuubvnnrv7AEFWEoaXZIAlBs4HWHCcJ16REOAAmhCcgXNA3hnlRLhS2RBE6AJ2L6D9CKHTQo7V%2FQaRA6HC0UQBgrFnWh1k%2B6ZnDQaDzrCnPGvC4xTn0o3josx1HjfZkjwiMS%2BpXJNceg%2F3CsdJoirFcoy32liTwut91AeIS85JHm9VBn8aqYgNVg0Ax4QQ7s4BZvQ74YIWOXDa3fMvu6kY8O3BGt79B70aF5EXomnoBAHm23mckvi1KKWX4iwj%2BZIocMHpkuY4Gwt2jH966oXhj%2FA2aF3dhbddpJAMZxERZSZPoZF3CuXkV0mEdJOEStUlzmqJamqjXJIlx9ppbGopQLt7xP4YIrdMV%2FKufe%2F2Yfo4D%2FzQj0Ye2OlSsuT5lGfKn0rJhDNrzpp1pyItGCP8Qio2BtZqGXGx%2FuT%2FYziMNKqyXi4ZTfpfroogmVoAklzp0R2NTbzS%2FDAzVi6MDTK6HbONeqhjt6yObUHLuGE%2FMxlM2sJzy%2BfEpcN5lN%2B%2FjoqJOaShv7p%2Bmy%2Bo93zfSzfuvsH9sp22eNpSytisWdGYNUdClISP1cFcKn36VVDDchtoqL5%2Fa%2FMZcGT5S52GNdT6NKzBZ4UaqM0E8%2BO00JNXkNMlaSDbcvU57B%2Bm3aoettWu%2Fjfr5GUz9LypECmfrKC7KDYdd4Xcla%2F9A5Vf8vequI5F5rwVLqamWL4FykXiLyqe7c%2Bzb0IDwrP6Qvv7%2BzzdokrhrIhxlhZCOrYiOmuC3e43RI38OIoEAAA%3DNo3R0eut0UwEbITaVJCv3Z2yjMMtqAJ%2FqboQvrSpeSs%3D",
+        "method": "GET",
+        "type": "redirect"
+    }
+}
+
+Payment Detail
+{
+    "pspReference": "WRCNNXNKG4BLNK82",
+    "resultCode": "Authorised",
+    "amount":
+    {
+        "currency": "EUR",
+        "value": 1000
+    },
+    "merchantReference": "Gary_checkoutChallenge"
+}

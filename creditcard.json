@@ -1,0 +1,231 @@
+"pspReference": "C3NJVFD273RZNN82"
+
+Payment Payload
+{
+    "riskData":
+    {
+        "clientData": "eyJ2ZXJzaW9uIjoiMS4wLjAiLCJkZXZpY2VGaW5nZXJwcmludCI6IkRwcXdVNHpFZE4wMDUwMDAwMDAwMDAwMDAwS1piSVFqNmt6czAxMTk3MDc0MTZjVkI5NGlLekJHMDlRR2loSDA0UEJpeDdSWDNhejgwMDJVN1VNaDZHeU9UMDAwMDBZVnhFcjAwMDAwM2lZR3hZRERzWmlaQ3FuSTRsc2s6NDAiLCJwZXJzaXN0ZW50Q29va2llIjpbXSwiY29tcG9uZW50cyI6eyJ1c2VyQWdlbnQiOiI1MTgzZWRmYzUxZTVmMWMxODNhYjg1Y2U2MzU4Y2Q2NiIsIndlYmRyaXZlciI6MCwibGFuZ3VhZ2UiOiJlbi1VUyIsImNvbG9yRGVwdGgiOjI0LCJkZXZpY2VNZW1vcnkiOjgsInBpeGVsUmF0aW8iOjEsImhhcmR3YXJlQ29uY3VycmVuY3kiOjgsInNjcmVlbldpZHRoIjozNDQwLCJzY3JlZW5IZWlnaHQiOjE0NDAsImF2YWlsYWJsZVNjcmVlbldpZHRoIjozNDQwLCJhdmFpbGFibGVTY3JlZW5IZWlnaHQiOjEzMjIsInRpbWV6b25lT2Zmc2V0IjotMTIwLCJ0aW1lem9uZSI6IkV1cm9wZS9BbXN0ZXJkYW0iLCJzZXNzaW9uU3RvcmFnZSI6MSwibG9jYWxTdG9yYWdlIjoxLCJpbmRleGVkRGIiOjEsImFkZEJlaGF2aW9yIjowLCJvcGVuRGF0YWJhc2UiOjEsInBsYXRmb3JtIjoiTWFjSW50ZWwiLCJwbHVnaW5zIjoiMjljZjcxZTNkODFkNzRkNDNhNWIwZWI3OTQwNWJhODciLCJjYW52YXMiOiJkYmZhMzM2MjA5ZTU0OWIyMDM4ZGEwNTMwMmNkNDg2YSIsIndlYmdsIjoiNDg5YjY1NmU0NDU3Nzg5ZTRjNzNmNzM2YWU4MzRiYTEiLCJ3ZWJnbFZlbmRvckFuZFJlbmRlcmVyIjoiR29vZ2xlIEluYy4gKEFUSSBUZWNobm9sb2dpZXMgSW5jLil+QU5HTEUgKEFUSSBUZWNobm9sb2dpZXMgSW5jLiwgQU1EIFJhZGVvbiBQcm8gNDUwIE9wZW5HTCBFbmdpbmUsIE9wZW5HTCA0LjEpIiwiYWRCbG9jayI6MCwiaGFzTGllZExhbmd1YWdlcyI6MCwiaGFzTGllZFJlc29sdXRpb24iOjAsImhhc0xpZWRPcyI6MCwiaGFzTGllZEJyb3dzZXIiOjAsImZvbnRzIjoiMjkyZWEyY2NlY2NkMDJiMDFjMGM0YzFkNDEzMjE3NWUiLCJhdWRpbyI6IjM5NGY2NDAwZjQ0ODk0MjA0MjNkZjMzNjU4ZTU0YmU2IiwiZW51bWVyYXRlRGV2aWNlcyI6ImNkNWMzNTVjNDA5MWE5NDA0ZWZkYmEyNDExYmRhZGMyIn19"
+    },
+    "paymentMethod":
+    {
+        "type": "scheme",
+        "holderName": "John Doe",
+        "encryptedCardNumber": "adyenjs_0_1_25$aJHauJdYZ6TS3gZPks6VUur2sAZ2ZzgIu32MH0RFmrnZ/T5jRDNhFjWtH914NwTOaEInhVjix0O+9BvV95z7gWe+cBQjwWwQbfwStOtvmSNEJUxcu1qV9qHizlYwkep+5ZmIB5Mn/VkZtCkBeDrKwvIAnbAyWzn2npRen2RbGLwIGb0RCrG1MMhd2TddH+QgzsnKeLKmx4DyMYkELTJYtuRtdl90SXwF1T3fYA7SQwOMMKIy7G9tITY4faLbjQI+shnDPjFXVt5pujYTW2FSmF+ODYjheppDSvg5ILf+NhskLErH7YvV2gOxuxsW2Kf8KwyymAOAHPwKQzyCWVYucA==$uOrw4h38u0eUngtsKV1duiN1FgmYvianDXGBStQp38XiedbxtQVwCtB88x56F82M4aVcLjhWkEiwp0HgpsvJoqDPg50lbMB58q327mJ+gTwwNOgUsca5/I8jSd7TMTG4RfnqYRIjzL/glF0xwWktIfugqSUtfsDlAlobrkjpKaiUCtNaHgl0Sb1XMaIfAm+QN05vwUFpm4ZG9yjNmEsQrTgo77IH+Psz1FRNTUt713KUl3L6d8DXS/+UvqBXHsTHlm3rztQKwiqzlQivho2/REHUO24Z0ftDlqUxYPxMt6gcQ3vG0azsWxhkhSEFqgF1RFjpjFc9Fa4Snm6zd0N7lYb9HDpjBqrM17nyLQlUXrrHiPOQV4chZBHUgfDJQ/q/28UtqGHm4XHyXtuQ278bPG8VcqzEukwIbqDLWa+acVW445xq0qtHAA6g8UP+kuBR4vNTGBfl76dHBnm01jb0FZyvUjwbYUKuqESbhzH7PUgmnFRnzaElzHkfAS4xRKP2UBV567izDYgawdU6MAieHreTbHYIyvUptTAuKoNaUoMg3n3Gve+gQuobg3QcGG5dfKR2Dlx4Hi6eeEEnZy5BShlSYkxj31t9GVAEb2OyUCs4WbgAqql5rarPXiqLR0zrXMYy7fgzyLGTSntKRWsB9iY0MNJtk/s5hQ0el0jUSK1qKF4=",
+        "encryptedExpiryMonth": "adyenjs_0_1_25$SoFKzqY5SEFYmOfAXVzwcxW+lBlgF3s92/4DtF1f+SBCjuTZNbFB7sZVvJm/li8t9cGaeYRJ+9/PdwcSX9yTaAXeMqiWv134tCRvUGP3qC1mxNZrY0OSv+gDmi7L8L0x5YN/IqVgI80BVggP1J1HM18PMqPGnaw9foS65cg+of6QZOPPCaqGJiBhks82Oh8oZanxMsCNrtymYL2ArJc88SdHedLcaaqvoA9lyX5U/h4aeJ7Y+1LNUNboQRd+K5lR3rK/tg0jkjOMq7M5O/pWFtFGPJCeKKt5YiUhjCF5OeQEyCYD3rECcw8oXNsWFhtjDQt3VuSTxLk2RK3n/9b5vQ==$DT2O1leaI+vvuHEGGFj5n9uraYaxFZMwJBZqXV4sWI39V4z61GpIEPU+zU4klIpFxS+WXjagWagaVyS5eojHfMmtsJMWUKN0NAURxF/HyZ2pYxxBm0/N6JUv9AtprZsbpvuNMVjK51ZXPr5cEWzEMeFPV7m0KMSZHhG8/J9FJD5OuuzHyorrbkpAnZivzio6O4jO6QUGhHKhyUdt6kAcoOkjZ1+Z/MiOUizbH8QG36dSQbvXwqWT15sY7n2MDhp2lN2Lolo6zbAybsYhiMkvqjne8YzXl9ziTkHXd1/2GpHfqf/jfNUWUkysrryDGEBaowAizKkJSXhrxxV8BtKybgmuEYZfqd00XtFtJJsBXK9m8M275aUBKGOf1G0RbrTVzpYQCD7DNBsz9u3Ct2MaG04zAVHeLvpMM8vUBfLRFjn2x61V",
+        "encryptedExpiryYear": "adyenjs_0_1_25$C2vVtziD+n6xEFZYCCku/hCiOOXMG0jdcUEuQxFPmO/iJVUIjcYTfks/CH+cCn8iuO9IGr+LoV0lJ5+e2QgaXVElziAIQt/C+b9pDzQca8f9NkHHX+Th4ygCNI6IXhXLSFoBTb7PQydQabwyt8nogmZipQCLxrxAkJjumBGWtseoOdpVu1lDdasgMgwz+NHX8CEd/E5vLTAE6JQY0+WPr8N8wOpXRocpO7I3m4zM01pc+gBo6s39gqywbyfyyifDcPlZf7aZgDuqG7BOqYcr88+MGDfpAxmqpc9FN2Z0e3nx/CDXvjZpVt8q1IJavZLsIBRl10ofPxSDjmeYdy+OXg==$XoBEv6poYfscmo3GpTpHer+ROezvr18z3e1bBNjjxc/crytXfbq0h2ntUmLT8HQFUkeRJU99D10jgjia8weHN5EJg/ljQSAttppkxXcqaRHi32tTwDTnsBHHvKyYZzIdp4x4d6o/zBOoBrZX053GzVzr65yUEBHIo1EAkWy89EbnMXU9pz/MWdUcSb9rppFi9Y4c2PqzMXhsQ0kXYJk8oh6pFW1D3W1/XfBJG7EEAbfhlP6q1iTSjWbI6M8sM+tgBSbbjU7EKE3QXctCMgIkMxiBc7JpC6pSyMXO/Ola/DZILKYs/0NNcVR3xgt1v6gQXBY0eQXUt409c5SHO2K1bmw5cg2vbHEm3IegXL9MyOFNzEvPDY5+hEnB+c5E4HSGPruw19W45vOR1PdMq6nrCf4s5Wey1VlV0o/mci8WnLKn/2MDWA==",
+        "encryptedSecurityCode": "adyenjs_0_1_25$EG0qk9MmwdJm+vRdOeWgQEzLwOUhMR3M6wLC6uPEHyqob9IrLpP2bVCM1ywm8Q+4O+zpM181y/ADeBbz5GSSoMkNiLYfxkJjeYXRFG+jPQoExtfHFTI1W40apQAygPqc6ISzxqNmGK5EjrRfbyBGDSk75dCilngXUNXoysAZDNE+LN2HW9y1B0fIK7JDhvrN2TDh1nWRKP5kAZZfP5QXj5O1vGamRueqLr38Lc07czdHVmi96cQgmD40yji3RnK7nsaqS3rt9o87bsnXcmxlN37wEeE2Es33Qg8XwDwYq2vYTRbZ69J8gV5HIeNj8yBRubiZTFEr8+apyrVNBalAMA==$0oflsrV7OZX31+C98kioTDgsLZNzhU9UFmBsNwPJFzuWBsiXwP3xr6iA7WHNWYzohYLoT2aJOKLo3RzXLCOO7CQ1xtMX0DwEINViZv2NFOqf/MDY71OC5nKRsrJZbZH3ujkBng7yw8lopH0FjsG+qLkg60osGmifpdwDAms89HGkEidk9t+5gQ6ZQ+TThMv80mSO1e9diaQlAyRz4S/CKwvrWY//E6ac49M0h25TzZ4oiQ/Ns9aZcU2FiQyqrxg3KtbW4IvwJTIBRDygzNsr4IYjfAF5RO6P6f2Y7ICiyNbOteALmNFBtMaV9aQqMmCw4I++oHXQoDMe0vnwh3gwKtAkzdqHuwivonAK3oNl04ewMLxZLEPMJZLQfHnDz30ZNJGxseczr65gsJCofEGTDVXObEJyMl0/wh8JJ8qZ+AGp5KAOK0dzA1dMdWCq5IsZ3jDTUUZbPzSJANyxt33qVb0GQMaRxeJne6PDXDUgRYFuZwZsoccX1024Wpw+TcVD/qwMoeJNj/ABBFMv+ei7hR7gj9CSdFIUKXAwQcl75AwPHLyUVuemUgUHUyPoMoiUACgyPChtJrL9JwUIfsdfAesgGRFfo9JQn+NtAaKylfa8jJUv1opHIxVwuIkkji8RoS/CczOPJTVkEpdVTY0DnuB91sZQmvYpREgZnkaUo8RGkbSny5ZQmkgcKrmIsGbWI9lXmwAYRTmMCO1RhAoeC8ED"
+    },
+    "billingAddress":
+    {
+        "street": "Hamsterstraat",
+        "houseNumberOrName": "15",
+        "postalCode": "1010AA",
+        "city": "Hamsterdam",
+        "stateOrProvince": "N/A",
+        "country": "NL"
+    },
+    "storePaymentMethod": False,
+    "browserInfo":
+    {
+        "acceptHeader": "*/*",
+        "colorDepth": 24,
+        "language": "en-US",
+        "javaEnabled": False,
+        "screenHeight": 1440,
+        "screenWidth": 3440,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+        "timeZoneOffset": -120
+    },
+    "origin": "http://localhost:5000",
+    "clientStateDataIndicator": True
+}
+
+Payment Response
+{
+    "additionalData":
+    {
+        "avsResult": "2 Neither postal code nor address match",
+        "cardSummary": "1115",
+        "retry.attempt1.avsResultRaw": "2",
+        "networkTxReference": "DSN20D34W0804",
+        "refusalReasonRaw": "AUTHORISED",
+        "eci": "N/A",
+        "threeDSVersion": "1.0.2",
+        "acquirerAccountCode": "TestPmmAcquirerAccount",
+        "expiryDate": "3/2030",
+        "xid": "N/A",
+        "cavvAlgorithm": "N/A",
+        "cardBin": "555534",
+        "threeDAuthenticated": "false",
+        "cvcResultRaw": "U",
+        "paymentMethodVariant": "mc",
+        "merchantReference": "Gary_checkoutChallenge",
+        "acquirerReference": "96570685165",
+        "liabilityShift": "false",
+        "fraudResultType": "GREEN",
+        "authCode": "038698",
+        "cardHolderName": "John Doe",
+        "fraudManualReview": "false",
+        "PaymentAccountReference": "pNhs54vmWMNU7KOgnb7NMuOfxUev5",
+        "retry.attempt1.acquirerAccount": "TestPmmAcquirerAccount",
+        "threeDOffered": "true",
+        "retry.attempt1.acquirer": "TestPmmAcquirer",
+        "threeDOfferedResponse": "N",
+        "authorisationMid": "50",
+        "authorisedAmountValue": "1000",
+        "issuerCountry": "unknown",
+        "cvcResult": "5 Issuer not certified for CVC/CVV",
+        "cavv": "N/A",
+        "retry.attempt1.responseCode": "Approved",
+        "authorisedAmountCurrency": "EUR",
+        "threeDAuthenticatedResponse": "N/A",
+        "avsResultRaw": "2",
+        "retry.attempt1.rawResponse": "AUTHORISED",
+        "paymentMethod": "mc",
+        "retry.attempt1.shopperInteraction": "Ecommerce",
+        "acquirerCode": "TestPmmAcquirer"
+    },
+    "fraudResult":
+    {
+        "accountScore": 64,
+        "results":
+        [
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 8,
+                    "checkId": 2,
+                    "name": "CardChunkUsage"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 5,
+                    "checkId": 3,
+                    "name": "PaymentDetailUsage"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 4,
+                    "name": "HolderNameUsage"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 7,
+                    "name": "ShopperIpUsage"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 8,
+                    "name": "ShopperEmailUsage"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 1,
+                    "name": "PaymentDetailRefCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 6,
+                    "name": "ShopperIpRefCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 13,
+                    "name": "IssuerRefCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 26,
+                    "name": "ShopperEmailRefCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 27,
+                    "name": "PmOwnerRefCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 50,
+                    "checkId": 41,
+                    "name": "PaymentDetailNonFraudRefCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 10,
+                    "name": "HolderNameContainsNumber"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 11,
+                    "name": "HolderNameIsOneWord"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 21,
+                    "name": "EmailDomainValidation"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 0,
+                    "checkId": 28,
+                    "name": "AnonymousProxyCheck"
+                }
+            },
+            {
+                "FraudCheckResult":
+                {
+                    "accountScore": 1,
+                    "checkId": 25,
+                    "name": "CVCAuthResultCheck"
+                }
+            }
+        ]
+    },
+    "pspReference": "C3NJVFD273RZNN82",
+    "resultCode": "Authorised",
+    "amount":
+    {
+        "currency": "EUR",
+        "value": 1000
+    },
+    "merchantReference": "Gary_checkoutChallenge"
+}
